@@ -7,6 +7,8 @@ Free web-resources you may want to use to promote your next startup.
 > create the product that is useful, usable and attractive to the end users. And only
 > after that it does make sense to spread the word about something you've done.
 
+![Spread the Word](https://raw.githubusercontent.com/trekhleb/promote-your-next-startup/master/assets/spread-the-word.jpg)
+
 ## Table of Contents
 
 - [Post News](#post-news)
