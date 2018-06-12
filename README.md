@@ -31,6 +31,7 @@ Free web-resources you may want to use to promote your next startup.
 | [thetechladder.com](https://thetechladder.com) | Trending tech news |
 | [slashdot.org](https://slashdot.org) | News for nerds |
 | [raddle.me](https://raddle.me) | News feed |
+| [designernews.co](https://www.designernews.co) | Designer news |
 
 ## Create Product Page
 
