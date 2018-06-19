@@ -51,6 +51,17 @@ Free web-resources you may want to use to promote your next startup.
 | [dzone.com](https://dzone.com) | Programming news, tutorials and tools |
 | [habr.com](https://habr.com) | Russian tech-blog |
 
+**Niche Blogs**
+
+These blogs depends are not that universal but more niche one
+where you may find your target audience.
+
+| Link | About |
+| ---- | ----- |
+| [geeksforgeeks.org](https://www.geeksforgeeks.org) | A computer science portal for geeks |
+| [codeforces.com](http://codeforces.com) | Programming contests platform |
+| [medium.com/dailyjs](https://medium.com/dailyjs) | Daily JS news |
+
 ## Write for News Blog
 
 | Link | About |
