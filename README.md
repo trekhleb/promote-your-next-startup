@@ -60,12 +60,12 @@ where you may find your target audience.
 | ---- | ----- |
 | [geeksforgeeks.org](https://www.geeksforgeeks.org) | A computer science portal for geeks |
 | [codeforces.com](http://codeforces.com) | Programming contests platform |
-| [medium.com/dailyjs](https://medium.com/dailyjs) | Daily JS news |
 
 ## Write for News Blog
 
 | Link | About |
 | ---- | ----- |
+| [medium.com/dailyjs](https://medium.com/dailyjs) | Daily JS news |
 | [itnext.io](https://itnext.io) | IT blog |
 | [alistapart.com](http://alistapart.com/about/contribute) | For people who make web-sites |
 | [thenextweb.com](https://thenextweb.com/about/#contact) | Web news |
