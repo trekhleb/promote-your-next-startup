@@ -46,7 +46,7 @@ Free web-resources you may want to use to promote your next startup.
 | Link | About |
 | ---- | ----- |
 | [medium.com](https://medium.com) | Read, write and share stories that matter |
-| [linkedin.com](https://linkedin.com) | People and companies that are posting and looking for job |
+| [linkedin.com](https://linkedin.com) | People and companies that are posting and looking for job. Post to your niche groups as well. |
 | [dev.to](https://dev.to) | The DEV community |
 | [dzone.com](https://dzone.com) | Programming news, tutorials and tools |
 | [habr.com](https://habr.com) | Russian tech-blog |
