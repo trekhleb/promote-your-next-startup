@@ -51,6 +51,7 @@ Free web-resources you may want to use to promote your next startup.
 | [dzone.com](https://dzone.com) | Programming news, tutorials and tools |
 | [habr.com](https://habr.com) | Russian tech-blog |
 | [hashnode.com](http://hashnode.com) | The Dev community |
+| [dou.ua](https://dou.ua/) | Ukrainian developers community |
 
 **Niche Blogs**
 
