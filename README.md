@@ -72,6 +72,7 @@ where you may find your target audience.
 | [thenextweb.com](https://thenextweb.com/about/#contact) | Web news |
 | [developer-tech.com](https://www.developer-tech.com/write-for-us) | Developer tech news |
 | [programmableweb.com](https://www.programmableweb.com/faq#Write_For_PW) | APIs, mashups and the Web as a platform |
+| [hakin9.com](https://hakin9.org/blog) | Blog of IT security magazine |
 
 ## Answer Questions
 
