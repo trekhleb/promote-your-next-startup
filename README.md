@@ -26,6 +26,7 @@ Free web-resources you may want to use to promote your next startup.
 | ---- | ----- |
 | [reddit.com](https://www.reddit.com) | The front-page of the internet |
 | [news.ycombinator.com](https://news.ycombinator.com) | Hacker news |
+| [lobste.rs](https://lobste.rs) | Lobsters |
 | [facebook.com](https://facebook.com) | Post news to your niche groups |
 | [twitter.com](https://twitter.com) | Of course |
 | [thetechladder.com](https://thetechladder.com) | Trending tech news |
