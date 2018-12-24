@@ -53,6 +53,7 @@ Free web-resources you may want to use to promote your next startup.
 | [habr.com](https://habr.com) | Russian tech-blog |
 | [hashnode.com](http://hashnode.com) | The Dev community |
 | [dou.ua](https://dou.ua/) | Ukrainian developers community |
+| [muckrack.com](https://muckrack.com) | MuckRack for journalist and public relations |
 
 **Niche Blogs**
 
