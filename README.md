@@ -75,6 +75,8 @@ where you may find your target audience.
 | [developer-tech.com](https://www.developer-tech.com/write-for-us) | Developer tech news |
 | [programmableweb.com](https://www.programmableweb.com/faq#Write_For_PW) | APIs, mashups and the Web as a platform |
 | [hakin9.com](https://hakin9.org/blog) | Blog of IT security magazine |
+| [datacamp.com](https://www.datacamp.com/community) | Data Science Online News |
+| [echojs.com](http://www.echojs.com) | JavaScript News |
 
 ## Answer Questions
 
