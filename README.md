@@ -9,17 +9,6 @@ Free web-resources you may want to use to promote your next startup.
 
 ![Spread the Word](https://raw.githubusercontent.com/trekhleb/promote-your-next-startup/master/assets/spread-the-word.jpg)
 
-## Table of Contents
-
-- [Post News](#post-news)
-- [Create Product Page](#create-product-page)
-- [Post an Article](#post-an-article)
-- [Write for News Blog](#write-for-news-blog)
-- [Answer Questions](#answer-questions)
-- [Write to Dev-Chats](#write-to-dev-chats)
-- [Become Awesome](#become-awesome)
-- [Register in Startup Directories](#register-in-startup-directories)
-
 ## Post News
 
 | Link | About |
@@ -106,6 +95,68 @@ go ahead and create pull request to add your product to the list.
 | Link | About |
 | ---- | ----- |
 | [github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of awesome awesomeness |
+
+## Use Advanced Google Search Techniques
+
+Google supports [powerful search techniques](https://ahrefs.com/blog/google-advanced-search-operators/) that may help you to promote your resource.
+
+### Find sites linking to competitors
+
+Find sites linking to your competitors and try to add your link to that web-sites as well.
+
+Google’s `link:` operator was officially deprecated in 2017.  But it does still return some results.
+
+_It might be a good idea to exclude competitor web-site itself from the search results by using the `site:` operator to avoid displaying of internal links_
+
+Do the following Google search but with you competitor's URL:
+
+`link:https://competitor-domain.com/blog -site:competitor-domain.com`
+
+### Find guest post opportunities
+
+This allows you to find web-sites where you might submit the article about your new project/product/startup.
+
+Pick your niche keyword (i.e. `programming`) and Google search for guest post related phrases like so:
+
+ `programming intitle:"write for us" inurl:"write-for-us"`
+ 
+ You can also use other phrases like:
+ 
+ - `contribute to`
+ - `become a contributor`
+ - `guest post guidelines`
+ - `inurl:guest-post`
+ - etc.
+ 
+ You can also search for many of these at once:
+ 
+`programming ("write for us" | inurl:"guest-post-guidelines" | inurl:"guest-post")`
+
+Or even:
+
+`(programming | machine learning) AND ("write for us" | inurl:"guest-post-guidelines")`
+
+### Find resource page opportunities
+
+Resource pages contains the links to best resources on specific topic.
+
+It might be a good idea to pitch your resource for inclusion.
+
+To find resource pages you might do the following Google search:
+
+`programming (intitle:"resources" | inurl:resources)`
+
+Or you might narrow it down to:
+
+`intitle:programming AND intitle:resources AND inurl:resources`
+
+### Find more related resource
+
+Once you found a good web-site to place a link to you might want to find similar relevant resources.
+
+To do so just do the following Google search but with the resource you're interested in:
+
+`related:https://news.ycombinator.com`
 
 ## Register in Startup Directories
 
