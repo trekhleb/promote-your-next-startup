@@ -39,6 +39,7 @@ Free web-resources you may want to use to promote your next startup.
 | [linkedin.com](https://linkedin.com) | People and companies that are posting and looking for job. Post to your niche groups as well. |
 | [dev.to](https://dev.to) | The DEV community |
 | [dzone.com](https://dzone.com) | Programming news, tutorials and tools |
+| [scotch.io](https://scotch.io/) | Top shelf web-development training |
 | [habr.com](https://habr.com) | Russian tech-blog |
 | [hashnode.com](http://hashnode.com) | The Dev community |
 | [dou.ua](https://dou.ua/) | Ukrainian developers community |
