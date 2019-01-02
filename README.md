@@ -44,6 +44,7 @@ Free web-resources you may want to use to promote your next startup.
 | [hashnode.com](http://hashnode.com) | The Dev community |
 | [dou.ua](https://dou.ua/) | Ukrainian developers community |
 | [muckrack.com](https://muckrack.com) | MuckRack for journalist and public relations |
+| [techhype.io](https://techhype.io) | News, articles and tools for developers |
 
 **Niche Blogs**
 
