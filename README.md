@@ -69,6 +69,7 @@ where you may find your target audience.
 | [hakin9.com](https://hakin9.org/blog) | Blog of IT security magazine |
 | [datacamp.com](https://www.datacamp.com/community) | Data Science Online News |
 | [echojs.com](http://www.echojs.com) | JavaScript News |
+| [css-tricks.com](https://css-tricks.com/) | CSS Tricks |
 
 ## Answer Questions
 
@@ -76,6 +77,13 @@ where you may find your target audience.
 | ---- | ----- |
 | [stackoverflow.com](https://stackoverflow.com) | Where developers learn, share and build careers |
 | [quora.com](https://www.quora.com) | A place to share knowledge and better understand the world |
+
+## Write on Forums
+
+| Link | About |
+| ---- | ----- |
+| [techrepublic.com](https://www.techrepublic.com/forums/) | Community of IT experts |
+| [sitepoint.com](https://www.sitepoint.com/community/) | Sitepoint forums |
 
 ## Write to Dev-Chats
 
