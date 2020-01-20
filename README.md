@@ -30,6 +30,7 @@ Free web-resources you may want to use to promote your next startup.
 | [producthunt.com](https://www.producthunt.com) | The best new products in tech |
 | [angel.co](https://angel.co) | Where the world meets startups |
 | [alternativeto.net](https://alternativeto.net) | Crowd-sourced software recommendations |
+| [codecanyons.net](https://codecanyons.net) | Crowd-sourced software Review & Recommendations |
 
 ## Post an Article
 
@@ -45,6 +46,7 @@ Free web-resources you may want to use to promote your next startup.
 | [dou.ua](https://dou.ua/) | Ukrainian developers community |
 | [muckrack.com](https://muckrack.com) | MuckRack for journalist and public relations |
 | [techhype.io](https://techhype.io) | News, articles and tools for developers |
+| [usercv.com/blogs](https://usercv.com/blogs) | Collection of Blogger's Blog |
 
 **Niche Blogs**
 
