@@ -45,6 +45,7 @@ Free web-resources you may want to use to promote your next startup.
 | [dou.ua](https://dou.ua/) | Ukrainian developers community |
 | [muckrack.com](https://muckrack.com) | MuckRack for journalist and public relations |
 | [techhype.io](https://techhype.io) | News, articles and tools for developers |
+| [towardsdatascience.com](https://towardsdatascience.com/) | Towards Data Science |
 
 **Niche Blogs**
 
