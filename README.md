@@ -21,6 +21,7 @@ Free web-resources you may want to use to promote your next startup.
 | [slashdot.org](https://slashdot.org) | News for nerds |
 | [raddle.me](https://raddle.me) | News feed |
 | [designernews.co](https://www.designernews.co) | Designer news |
+| [datatau.net](https://datatau.net/) | DataTau - Data Science Newsboard |
 
 ## Create Product Page
 
