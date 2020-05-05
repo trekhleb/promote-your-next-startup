@@ -18,7 +18,6 @@ Free web-resources you may want to use to promote your next startup.
 | [lobste.rs](https://lobste.rs) | Lobsters |
 | [facebook.com](https://facebook.com) | Post news to your niche groups |
 | [twitter.com](https://twitter.com) | Of course |
-| [thetechladder.com](https://thetechladder.com) | Trending tech news |
 | [slashdot.org](https://slashdot.org) | News for nerds |
 | [raddle.me](https://raddle.me) | News feed |
 | [designernews.co](https://www.designernews.co) | Designer news |
