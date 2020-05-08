@@ -48,6 +48,7 @@ Free web-resources you may want to use to promote your next startup.
 | [techhype.io](https://techhype.io) | News, articles and tools for developers |
 | [towardsdatascience.com](https://towardsdatascience.com/) | Towards Data Science |
 | [python.libhunt.com](https://python.libhunt.com/) | Awesome Python LibHunt |
+| [vas3k.club](https://vas3k.club/) | Вастрик.Клуб |
 
 **Niche Blogs**
 
