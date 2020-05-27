@@ -50,6 +50,7 @@ Free web-resources you may want to use to promote your next startup.
 | [python.libhunt.com](https://python.libhunt.com/) | Awesome Python LibHunt |
 | [vas3k.club](https://vas3k.club/) | Вастрик.Клуб |
 | [codementor.io](https://www.codementor.io/community/) | CodeMentor Community |
+| [kdnuggets.com](https://www.kdnuggets.com/) | KDNuggets |
 
 **Niche Blogs**
 
