@@ -90,6 +90,7 @@ where you may find your target audience.
 | ---- | ----- |
 | [techrepublic.com](https://www.techrepublic.com/forums/) | Community of IT experts |
 | [sitepoint.com](https://www.sitepoint.com/community/) | Sitepoint forums |
+| [hypelance.com](https://hypelance.com/) | Freelancer and entrepreneur community |
 
 ## Write to Dev-Chats
 
