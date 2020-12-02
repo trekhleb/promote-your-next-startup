@@ -53,6 +53,9 @@ Free web-resources you may want to use to promote your next startup.
 | [codementor.io](https://www.codementor.io/community/) | CodeMentor Community |
 | [kdnuggets.com](https://www.kdnuggets.com/) | KDNuggets |
 | [morioh.com](https://morioh.com/) | Social network for programmers and developers |
+| [hackernoon.com](https://hackernoon.com/) | Hacker Noon |
+| [blogger.com](https://www.blogger.com/) | Blogging platform |
+| [hackr.io](https://hackr.io/) | The list of programming classes and tutorials |
 
 **Niche Blogs**
 
