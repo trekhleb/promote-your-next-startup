@@ -3,7 +3,7 @@
 Free web-resources you may want to use to promote your next startup.
 
 > The main advertisement channel is of course **people who are in love with your product**.
-> Their sharing activities is the best advertisement. Thus the main idea is to 
+> Their sharing activities is the best advertisement. Thus, the main idea is to 
 > create the product that is useful, usable and attractive to the end users. And only
 > after that it does make sense to spread the word about something you've done.
 
