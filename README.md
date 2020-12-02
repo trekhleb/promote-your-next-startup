@@ -23,14 +23,13 @@ Free web-resources you may want to use to promote your next startup.
 | [designernews.co](https://www.designernews.co) | Designer news |
 | [datatau.net](https://datatau.net/) | DataTau - Data Science Newsboard |
 
-## Create Product Page
+## Create a Product Page
 
 | Link | About |
 | ---- | ----- |
 | [producthunt.com](https://www.producthunt.com) | The best new products in tech |
 | [angel.co](https://angel.co) | Where the world meets startups |
 | [alternativeto.net](https://alternativeto.net) | Crowd-sourced software recommendations |
-| [madewithml.com](https://madewithml.com/) | Made With ML |
 
 ## Post an Article
 
