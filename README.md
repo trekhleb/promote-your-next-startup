@@ -16,7 +16,7 @@ Free web-resources you may want to use to promote your next startup.
 | [reddit.com](https://www.reddit.com) | The front-page of the internet |
 | [news.ycombinator.com](https://news.ycombinator.com) | Hacker news |
 | [lobste.rs](https://lobste.rs) | Lobsters |
-| [facebook.com](https://facebook.com) | Post news to your niche groups |
+| [facebook.com](https://facebook.com) | Post news to your niche groups. Monitor groups using [socialfixer](https://fabian-maume.medium.com/how-to-monitor-facebook-groups-effectively-f9a54a77ca6e). |
 | [twitter.com](https://twitter.com) | Of course |
 | [slashdot.org](https://slashdot.org) | News for nerds |
 | [raddle.me](https://raddle.me) | News feed |
@@ -32,6 +32,7 @@ Free web-resources you may want to use to promote your next startup.
 | [angel.co](https://angel.co) | Where the world meets startups |
 | [alternativeto.net](https://alternativeto.net) | Crowd-sourced software recommendations |
 | [indiehackers.com](https://www.indiehackers.com) | Indie Hackers |
+| [alternative.me](https://alternative.me/) | Crowd-sourced software recommendations |
 
 ## Post an Article
 
@@ -88,7 +89,7 @@ where you may find your target audience.
 | Link | About |
 | ---- | ----- |
 | [stackoverflow.com](https://stackoverflow.com) | Where developers learn, share and build careers |
-| [quora.com](https://www.quora.com) | A place to share knowledge and better understand the world |
+| [quora.com](https://www.quora.com) | A place to share knowledge and better understand the world. Look for question using [QApop](https://www.qapop.com/). |
 
 ## Write on Forums
 
