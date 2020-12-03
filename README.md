@@ -57,7 +57,7 @@ Free web-resources you may want to use to promote your next startup.
 | [blogger.com](https://www.blogger.com/) | Blogging platform |
 | [hackr.io](https://hackr.io/) | The list of programming classes and tutorials |
 
-**Niche Blogs**
+**Niche Platforms**
 
 These blogs depends are not that universal but more niche one
 where you may find your target audience.
@@ -66,6 +66,7 @@ where you may find your target audience.
 | ---- | ----- |
 | [geeksforgeeks.org](https://www.geeksforgeeks.org) | A computer science portal for geeks |
 | [codeforces.com](http://codeforces.com) | Programming contests platform |
+| [kaggle.com](https://www.kaggle.com/) | Your home for datascience |
 
 ## Write for News Blog
 
