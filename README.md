@@ -23,6 +23,7 @@ Free web-resources you may want to use to promote your next startup.
 | [designernews.co](https://www.designernews.co) | Designer news |
 | [datatau.net](https://datatau.net/) | DataTau - Data Science Newsboard |
 | [devrant.com](https://devrant.com/) | A fun community of developers |
+| [sidebar.io](https://sidebar.io/) | The five best design links, every weekday |
 
 ## Create a Product Page
 
