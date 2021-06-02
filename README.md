@@ -212,3 +212,7 @@ To do so just do the following Google search but with the resource you're intere
 | [sideprojectors.com](https://www.sideprojectors.com) | Marketplace to buy and sell side projects |
 | [launchingnext.com](https://www.launchingnext.com) | New startups and ideas |
 | [startupranking.com](https://www.startupranking.com) | New startups and ideas |
+
+## Other suggestions
+
+- Use [findareddit.com](https://www.findareddit.com/) to find relevant subreddits for your niche
