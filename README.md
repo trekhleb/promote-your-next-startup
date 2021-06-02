@@ -192,6 +192,7 @@ To do so just do the following Google search but with the resource you're intere
 | [f6s.com](https://www.f6s.com) | Startup founder deals and accelerators |
 | [killerstartups.com](http://www.killerstartups.com) | Where internet entrepreneurs are the stars |
 | [startupbuffer.com](https://startupbuffer.com) | Promote your startup and discover new startups |
+| [startitup.io](https://startitup.io/) | Startup directory |
 | [allstartups.info](http://www.allstartups.info) | All startups info |
 | [betapage.co](https://betapage.co) | Community of tech lovers and early adopters |
 | [index.co](https://index.co) | Connecting startups, corporate brands, and investors |
