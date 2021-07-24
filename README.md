@@ -60,8 +60,7 @@ Free web-resources you may want to use to promote your next startup.
 
 **Niche Platforms**
 
-These blogs depends are not that universal but more niche one
-where you may find your target audience.
+Here are some niche blogs which you may use to find your target audience.
 
 | Link | About |
 | ---- | ----- |
@@ -216,3 +215,25 @@ To do so just do the following Google search but with the resource you're intere
 ## Other suggestions
 
 - Use [findareddit.com](https://www.findareddit.com/) to find relevant subreddits for your niche
+
+Depending on the subject of your post you may use the targeted subreddits:
+
+- [r/coding](https://www.reddit.com/r/coding/)
+- [r/computerscience](https://www.reddit.com/r/computerscience/)
+- [r/SideProject](https://www.reddit.com/r/SideProject/)
+- [r/algorithms](httr/javascriptps://www.reddit.com/r/algorithms/)
+- [r/javascript](https://www.reddit.com/r/javascript/)
+- [r/learnjavascript](https://www.reddit.com/r/learnjavascript/)
+- [r/reactjs](https://www.reddit.com/r/reactjs/)
+- [r/programming](https://www.reddit.com/r/programming/)
+- [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
+- [r/webdev](https://www.reddit.com/r/webdev/)
+- [r/datascience](https://www.reddit.com/r/datascience/)
+- [r/Python](https://www.reddit.com/r/Python/)
+- [r/pythontips](https://www.reddit.com/r/pythontips/)
+- [r/ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/)
+- [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
+- [r/MachinesLearn](https://www.reddit.com/r/MachinesLearn/)
+- [r/MLQuestions](https://www.reddit.com/r/MLQuestions/)
+- [r/tensorflow](https://www.reddit.com/r/tensorflow/)
+- [r/pythoncoding](https://www.reddit.com/r/pythoncoding/)
