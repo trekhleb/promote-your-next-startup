@@ -109,6 +109,14 @@ to channel.
 | ---- | ----- |
 | [gitter.im](https://gitter.im) | Where developers come to talk |
 
+## Record a video
+
+Record a demo video of your product, or some learning content and upload it to your YouTube channel. Put the link to the product or to the content to the video description.  
+
+| Link | About |
+| ---- | ----- |
+| [youtube.com](https://www.youtube.com/) | Video platform |
+
 ## Become Awesome
 
 If you find your project to be related to one of the awesome partitions then just
