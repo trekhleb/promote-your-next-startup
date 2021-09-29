@@ -30,6 +30,7 @@ Free web-resources you may want to use to promote your next startup.
 | Link | About |
 | ---- | ----- |
 | [producthunt.com](https://www.producthunt.com) | The best new products in tech |
+| [saashub.com](https://www.saashub.com) | SaaSHub - Software alternatives and reviews |
 | [angel.co](https://angel.co) | Where the world meets startups |
 | [alternativeto.net](https://alternativeto.net) | Crowd-sourced software recommendations |
 | [indiehackers.com](https://www.indiehackers.com) | Indie Hackers |
