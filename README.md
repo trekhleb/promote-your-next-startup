@@ -85,6 +85,7 @@ Here are some niche blogs which you may use to find your target audience.
 | [datacamp.com](https://www.datacamp.com/community) | Data Science Online News |
 | [echojs.com](http://www.echojs.com) | JavaScript News |
 | [css-tricks.com](https://css-tricks.com/) | CSS Tricks |
+| [daily.dev/blog](https://daily.dev/blog) | Daily Dev Blog |
 
 ## Answer Questions
 
