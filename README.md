@@ -59,6 +59,7 @@ Free web-resources you may want to use to promote your next startup.
 | [hackernoon.com](https://hackernoon.com/) | Hacker Noon |
 | [blogger.com](https://www.blogger.com/) | Blogging platform |
 | [hackr.io](https://hackr.io/) | The list of programming classes and tutorials |
+| [javascriptkicks.com](https://javascriptkicks.com/) | JavaScript Kicks |
 
 **Niche Platforms**
 
