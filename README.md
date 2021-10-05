@@ -60,6 +60,7 @@ Free web-resources you may want to use to promote your next startup.
 | [blogger.com](https://www.blogger.com/) | Blogging platform |
 | [hackr.io](https://hackr.io/) | The list of programming classes and tutorials |
 | [javascriptkicks.com](https://javascriptkicks.com/) | JavaScript Kicks |
+| [smashingmagazine.com](https://www.smashingmagazine.com/) | For web designers and developers |
 
 **Niche Platforms**
 
