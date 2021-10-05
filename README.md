@@ -61,6 +61,7 @@ Free web-resources you may want to use to promote your next startup.
 | [hackr.io](https://hackr.io/) | The list of programming classes and tutorials |
 | [javascriptkicks.com](https://javascriptkicks.com/) | JavaScript Kicks |
 | [smashingmagazine.com](https://www.smashingmagazine.com/) | For web designers and developers |
+| [forum.freecodecamp.org](https://forum.freecodecamp.org/) | The Free Code Camp Forum |
 
 **Niche Platforms**
 
