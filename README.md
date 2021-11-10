@@ -3,7 +3,7 @@
 Free web-resources you may want to use to promote your next startup.
 
 > The main advertisement channel is of course **people who are in love with your product**.
-> Their sharing activities is the best advertisement. Thus the main idea is to 
+> Their sharing activities is the best advertisement. Thus, the main idea is to 
 > create the product that is useful, usable and attractive to the end users. And only
 > after that it does make sense to spread the word about something you've done.
 
@@ -18,18 +18,23 @@ Free web-resources you may want to use to promote your next startup.
 | [lobste.rs](https://lobste.rs) | Lobsters |
 | [facebook.com](https://facebook.com) | Post news to your niche groups |
 | [twitter.com](https://twitter.com) | Of course |
-| [thetechladder.com](https://thetechladder.com) | Trending tech news |
 | [slashdot.org](https://slashdot.org) | News for nerds |
 | [raddle.me](https://raddle.me) | News feed |
 | [designernews.co](https://www.designernews.co) | Designer news |
+| [datatau.net](https://datatau.net/) | DataTau - Data Science Newsboard |
+| [devrant.com](https://devrant.com/) | A fun community of developers |
+| [sidebar.io](https://sidebar.io/) | The five best design links, every weekday |
+| [changelog.com](https://changelog.com/) | News and podcasts for developers |
 
-## Create Product Page
+## Create a Product Page
 
 | Link | About |
 | ---- | ----- |
 | [producthunt.com](https://www.producthunt.com) | The best new products in tech |
+| [saashub.com](https://www.saashub.com) | SaaSHub - Software alternatives and reviews |
 | [angel.co](https://angel.co) | Where the world meets startups |
 | [alternativeto.net](https://alternativeto.net) | Crowd-sourced software recommendations |
+| [indiehackers.com](https://www.indiehackers.com) | Indie Hackers |
 
 ## Post an Article
 
@@ -45,17 +50,34 @@ Free web-resources you may want to use to promote your next startup.
 | [dou.ua](https://dou.ua/) | Ukrainian developers community |
 | [muckrack.com](https://muckrack.com) | MuckRack for journalist and public relations |
 | [techhype.io](https://techhype.io) | News, articles and tools for developers |
-| [starterstory.com](https://starterstory.com) | Get interviewed about starting your business |
+| [starterstory.com](https://starterstory.com) | Get interviewed about your business (submit [here](https://starterstory.com/share)) |
 
 **Niche Blogs**
 
 These blogs depends are not that universal but more niche one
 where you may find your target audience.
+| [towardsdatascience.com](https://towardsdatascience.com/) | Towards Data Science |
+| [python.libhunt.com](https://python.libhunt.com/) | Awesome Python LibHunt |
+| [vas3k.club](https://vas3k.club/) | Вастрик.Клуб |
+| [codementor.io](https://www.codementor.io/community/) | CodeMentor Community |
+| [kdnuggets.com](https://www.kdnuggets.com/) | KDNuggets |
+| [morioh.com](https://morioh.com/) | Social network for programmers and developers |
+| [hackernoon.com](https://hackernoon.com/) | Hacker Noon |
+| [blogger.com](https://www.blogger.com/) | Blogging platform |
+| [hackr.io](https://hackr.io/) | The list of programming classes and tutorials |
+| [javascriptkicks.com](https://javascriptkicks.com/) | JavaScript Kicks |
+| [smashingmagazine.com](https://www.smashingmagazine.com/) | For web designers and developers |
+| [forum.freecodecamp.org](https://forum.freecodecamp.org/) | The Free Code Camp Forum |
+
+**Niche Platforms**
+
+Here are some niche blogs which you may use to find your target audience.
 
 | Link | About |
 | ---- | ----- |
 | [geeksforgeeks.org](https://www.geeksforgeeks.org) | A computer science portal for geeks |
 | [codeforces.com](http://codeforces.com) | Programming contests platform |
+| [kaggle.com](https://www.kaggle.com/) | Your home for datascience |
 
 ## Write for News Blog
 
@@ -71,6 +93,7 @@ where you may find your target audience.
 | [datacamp.com](https://www.datacamp.com/community) | Data Science Online News |
 | [echojs.com](http://www.echojs.com) | JavaScript News |
 | [css-tricks.com](https://css-tricks.com/) | CSS Tricks |
+| [daily.dev/blog](https://daily.dev/blog) | Daily Dev Blog |
 
 ## Answer Questions
 
@@ -97,6 +120,14 @@ to channel.
 | Link | About |
 | ---- | ----- |
 | [gitter.im](https://gitter.im) | Where developers come to talk |
+
+## Record a video
+
+Record a demo video of your product, or some learning content and upload it to your YouTube channel. Put the link to the product or to the content to the video description.  
+
+| Link | About |
+| ---- | ----- |
+| [youtube.com](https://www.youtube.com/) | Video platform |
 
 ## Become Awesome
 
@@ -200,3 +231,30 @@ To do so just do the following Google search but with the resource you're intere
 | [sideprojectors.com](https://www.sideprojectors.com) | Marketplace to buy and sell side projects |
 | [launchingnext.com](https://www.launchingnext.com) | New startups and ideas |
 | [startupranking.com](https://www.startupranking.com) | New startups and ideas |
+
+## Other suggestions
+
+- Use [findareddit.com](https://www.findareddit.com/) to find relevant subreddits for your niche
+
+Depending on the subject of your post you may use the targeted subreddits:
+
+- [r/coding](https://www.reddit.com/r/coding/)
+- [r/computerscience](https://www.reddit.com/r/computerscience/)
+- [r/compsci](https://www.reddit.com/r/compsci/)
+- [r/SideProject](https://www.reddit.com/r/SideProject/)
+- [r/algorithms](httr/javascriptps://www.reddit.com/r/algorithms/)
+- [r/javascript](https://www.reddit.com/r/javascript/)
+- [r/learnjavascript](https://www.reddit.com/r/learnjavascript/)
+- [r/reactjs](https://www.reddit.com/r/reactjs/)
+- [r/programming](https://www.reddit.com/r/programming/)
+- [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
+- [r/webdev](https://www.reddit.com/r/webdev/)
+- [r/datascience](https://www.reddit.com/r/datascience/)
+- [r/Python](https://www.reddit.com/r/Python/)
+- [r/pythontips](https://www.reddit.com/r/pythontips/)
+- [r/ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/)
+- [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
+- [r/MachinesLearn](https://www.reddit.com/r/MachinesLearn/)
+- [r/MLQuestions](https://www.reddit.com/r/MLQuestions/)
+- [r/tensorflow](https://www.reddit.com/r/tensorflow/)
+- [r/pythoncoding](https://www.reddit.com/r/pythoncoding/)
