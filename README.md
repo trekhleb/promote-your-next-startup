@@ -62,6 +62,7 @@ Free web-resources you may want to use to promote your next startup.
 | [javascriptkicks.com](https://javascriptkicks.com/) | JavaScript Kicks |
 | [smashingmagazine.com](https://www.smashingmagazine.com/) | For web designers and developers |
 | [forum.freecodecamp.org](https://forum.freecodecamp.org/) | The Free Code Camp Forum |
+| [codeproject.com](https://www.codeproject.com/) | CodeProject - For those who code |
 
 **Niche Platforms**
 
