@@ -243,7 +243,7 @@ Depending on the subject of your post you may use the targeted subreddits:
 - [r/computerscience](https://www.reddit.com/r/computerscience/)
 - [r/compsci](https://www.reddit.com/r/compsci/)
 - [r/SideProject](https://www.reddit.com/r/SideProject/)
-- [r/algorithms](httr/javascriptps://www.reddit.com/r/algorithms/)
+- [r/algorithms](https://www.reddit.com/r/algorithms/)
 - [r/javascript](https://www.reddit.com/r/javascript/)
 - [r/learnjavascript](https://www.reddit.com/r/learnjavascript/)
 - [r/reactjs](https://www.reddit.com/r/reactjs/)
