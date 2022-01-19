@@ -104,6 +104,12 @@ Here are some niche blogs which you may use to find your target audience.
 | [techrepublic.com](https://www.techrepublic.com/forums/) | Community of IT experts |
 | [sitepoint.com](https://www.sitepoint.com/community/) | Sitepoint forums |
 
+## Publish your RSS
+
+| Link | About |
+| ---- | ----- |
+| [feedly.com](https://feedly.com/) | News aggregator |
+
 ## Write to Dev-Chats
 
 Don't spam!
