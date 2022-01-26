@@ -63,6 +63,7 @@ Free web-resources you may want to use to promote your next startup.
 | [smashingmagazine.com](https://www.smashingmagazine.com/) | For web designers and developers |
 | [forum.freecodecamp.org](https://forum.freecodecamp.org/) | The Free Code Camp Forum |
 | [codeproject.com](https://www.codeproject.com/) | CodeProject - For those who code |
+| [devdojo.com](https://devdojo.com/) | Dev community |
 
 **Niche Platforms**
 
