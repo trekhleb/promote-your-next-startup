@@ -239,7 +239,7 @@ To do so just do the following Google search but with the resource you're intere
 
 ### Other collections
 
-- [submit.co](https://submit.co/?order=followers) - where to get press coverage for your startup
+- [submit.co](https://submit.co/) - where to get press coverage for your startup
 
 ### SubReddits
 
