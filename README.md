@@ -237,6 +237,12 @@ To do so just do the following Google search but with the resource you're intere
 
 ## Other suggestions
 
+### Other collections
+
+- [submit.co](https://submit.co/?order=followers) - where to get press coverage for your startup
+
+### SubReddits
+
 - Use [findareddit.com](https://www.findareddit.com/) to find relevant subreddits for your niche
 
 Depending on the subject of your post you may use the targeted subreddits:
