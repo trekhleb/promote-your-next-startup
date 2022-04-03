@@ -243,7 +243,7 @@ To do so just do the following Google search but with the resource you're intere
 
 ### SubReddits
 
-- Use [findareddit.com](https://www.findareddit.com/) to find relevant subreddits for your niche
+Use [findareddit.com](https://www.findareddit.com/) to find relevant subreddits for your niche
 
 Depending on the subject of your post you may use the targeted subreddits:
 
