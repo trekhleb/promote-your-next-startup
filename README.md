@@ -25,6 +25,7 @@ Free web-resources you may want to use to promote your next startup.
 | [devrant.com](https://devrant.com/) | A fun community of developers |
 | [sidebar.io](https://sidebar.io/) | The five best design links, every weekday |
 | [changelog.com](https://changelog.com/) | News and podcasts for developers |
+| [news.python.sc](https://news.python.sc/) | News by and for the Python community |
 
 ## Create a Product Page
 
