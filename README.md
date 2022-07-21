@@ -74,6 +74,7 @@ Here are some niche blogs which you may use to find your target audience.
 | [geeksforgeeks.org](https://www.geeksforgeeks.org) | A computer science portal for geeks |
 | [codeforces.com](http://codeforces.com) | Programming contests platform |
 | [kaggle.com](https://www.kaggle.com/) | Your home for datascience |
+| [Scaler.com](https://www.scaler.com/topics/) | Programming tutorials platform |
 
 ## Write for News Blog
 
