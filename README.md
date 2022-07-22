@@ -224,6 +224,7 @@ To do so just do the following Google search but with the resource you're intere
 | [nextbigwhat.com](https://www.nextbigwhat.com) | Discover great products |
 | [iamwire.com](http://www.iamwire.com/startups/user/register) | A digital incubator & network for technology ecosystem |
 | [snapmunk.com](https://www.snapmunk.com/submit-your-startup) | Technology trends and startup culture |
+| [microstartups.co](https://www.microstartups.co/) | Discover trending micro-startups today |
 | [nibletz.com](http://www.nibletz.com/submit-startup) | The voice of the startups |
 | [startupstash.com](http://startupstash.com) | Curated resources and tools for startups |
 | [alltopstartups.com](https://alltopstartups.com) | All top startups |
