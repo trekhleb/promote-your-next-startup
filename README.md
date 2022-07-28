@@ -270,3 +270,7 @@ Depending on the subject of your post you may use the targeted subreddits:
 - [r/MLQuestions](https://www.reddit.com/r/MLQuestions/)
 - [r/tensorflow](https://www.reddit.com/r/tensorflow/)
 - [r/pythoncoding](https://www.reddit.com/r/pythoncoding/)
+- [r/alphaandbetausers](https://www.reddit.com/r/alphaandbetausers/)
+- [r/IMadeThis](https://www.reddit.com/r/IMadeThis/)
+- [r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
+- [r/SideProject](https://www.reddit.com/r/SideProject/)
