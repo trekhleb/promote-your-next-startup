@@ -156,7 +156,7 @@ Do the following Google search but with you competitor's URL:
 
 `link:https://competitor-domain.com/blog -site:competitor-domain.com`
 
-You might also want to analyze **the backlinks to your competitors** using services like [ahrefs.com](https://ahrefs.com/).
+You might also want to analyze **the backlinks to your competitors** using services like [ahrefs.com](https://ahrefs.com/backlink-checker).
 
 ### Find guest post opportunities
 
