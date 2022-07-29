@@ -37,6 +37,8 @@ Free web-resources you may want to use to promote your next startup.
 | [indiehackers.com](https://www.indiehackers.com) | Indie Hackers |
 | [evernote.design](https://www.evernote.design/) | All in one bookmark links for designer |
 | [pagecollective.com](https://pagecollective.com/) | Landing page design inspirations |
+| [admiretheweb.com](https://www.admiretheweb.com/) | The very best in the web design inspiration |
+| [blog.gaetanpautler.com](https://blog.gaetanpautler.com/) | Weekly links and websites |
 
 ## Post an Article
 
