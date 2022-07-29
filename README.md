@@ -41,6 +41,7 @@ Free web-resources you may want to use to promote your next startup.
 | [blog.gaetanpautler.com](https://blog.gaetanpautler.com/) | Weekly links and websites |
 | [fuse.kiwi](https://www.fuse.kiwi/) | Interesting internet |
 | [hoverstat.es](https://www.hoverstat.es/) | The home of alternative web-design |
+| [read.cv](https://read.cv/) | Profiles of developers and their projects |
 
 ## Post an Article
 
