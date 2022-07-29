@@ -26,7 +26,7 @@ Free web-resources you may want to use to promote your next startup.
 | [sidebar.io](https://sidebar.io/) | The five best design links, every weekday |
 | [changelog.com](https://changelog.com/) | News and podcasts for developers |
 
-## Create a Product Page
+## Create a Product/Tool Page
 
 | Link | About |
 | ---- | ----- |
@@ -39,6 +39,8 @@ Free web-resources you may want to use to promote your next startup.
 | [pagecollective.com](https://pagecollective.com/) | Landing page design inspirations |
 | [admiretheweb.com](https://www.admiretheweb.com/) | The very best in the web design inspiration |
 | [blog.gaetanpautler.com](https://blog.gaetanpautler.com/) | Weekly links and websites |
+| [fuse.kiwi](https://www.fuse.kiwi/) | Interesting internet |
+| [hoverstat.es](https://www.hoverstat.es/) | The home of alternative web-design |
 
 ## Post an Article
 
