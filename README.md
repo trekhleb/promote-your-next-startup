@@ -35,6 +35,8 @@ Free web-resources you may want to use to promote your next startup.
 | [angel.co](https://angel.co) | Where the world meets startups |
 | [alternativeto.net](https://alternativeto.net) | Crowd-sourced software recommendations |
 | [indiehackers.com](https://www.indiehackers.com) | Indie Hackers |
+| [evernote.design](https://www.evernote.design/) | All in one bookmark links for designer |
+| [pagecollective.com](https://pagecollective.com/) | Landing page design inspirations |
 
 ## Post an Article
 
