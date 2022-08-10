@@ -43,6 +43,7 @@ Free web-resources you may want to use to promote your next startup.
 | [fuse.kiwi](https://www.fuse.kiwi/) | Interesting internet |
 | [hoverstat.es](https://www.hoverstat.es/) | The home of alternative web-design |
 | [read.cv](https://read.cv/) | Profiles of developers and their projects |
+| [alternative.me](https://alternative.me/) | Crowd-sourced software recommendations |
 
 ## Post an Article
 
@@ -104,7 +105,7 @@ Here are some niche blogs which you may use to find your target audience.
 | Link | About |
 | ---- | ----- |
 | [stackoverflow.com](https://stackoverflow.com) | Where developers learn, share and build careers |
-| [quora.com](https://www.quora.com) | A place to share knowledge and better understand the world |
+| [quora.com](https://www.quora.com) | A place to share knowledge and better understand the world. Look for question using [QApop](https://www.qapop.com/). |
 
 ## Write on Forums
 
