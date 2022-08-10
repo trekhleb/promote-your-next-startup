@@ -16,22 +16,33 @@ Free web-resources you may want to use to promote your next startup.
 | [reddit.com](https://www.reddit.com) | The front-page of the internet |
 | [news.ycombinator.com](https://news.ycombinator.com) | Hacker news |
 | [lobste.rs](https://lobste.rs) | Lobsters |
-| [facebook.com](https://facebook.com) | Post news to your niche groups. Monitor groups using [socialfixer](https://fabian-maume.medium.com/how-to-monitor-facebook-groups-effectively-f9a54a77ca6e). |
+| [facebook.com](https://facebook.com) | Post news to your niche groups |
 | [twitter.com](https://twitter.com) | Of course |
 | [slashdot.org](https://slashdot.org) | News for nerds |
 | [raddle.me](https://raddle.me) | News feed |
 | [designernews.co](https://www.designernews.co) | Designer news |
 | [datatau.net](https://datatau.net/) | DataTau - Data Science Newsboard |
 | [devrant.com](https://devrant.com/) | A fun community of developers |
+| [sidebar.io](https://sidebar.io/) | The five best design links, every weekday |
+| [changelog.com](https://changelog.com/) | News and podcasts for developers |
+| [uxdesignweekly.com](https://uxdesignweekly.com/) | The best UX design links each week |
 
-## Create a Product Page
+## Create a Product/Tool Page
 
 | Link | About |
 | ---- | ----- |
 | [producthunt.com](https://www.producthunt.com) | The best new products in tech |
+| [saashub.com](https://www.saashub.com) | SaaSHub - Software alternatives and reviews |
 | [angel.co](https://angel.co) | Where the world meets startups |
 | [alternativeto.net](https://alternativeto.net) | Crowd-sourced software recommendations |
 | [indiehackers.com](https://www.indiehackers.com) | Indie Hackers |
+| [evernote.design](https://www.evernote.design/) | All in one bookmark links for designer |
+| [pagecollective.com](https://pagecollective.com/) | Landing page design inspirations |
+| [admiretheweb.com](https://www.admiretheweb.com/) | The very best in the web design inspiration |
+| [blog.gaetanpautler.com](https://blog.gaetanpautler.com/) | Weekly links and websites |
+| [fuse.kiwi](https://www.fuse.kiwi/) | Interesting internet |
+| [hoverstat.es](https://www.hoverstat.es/) | The home of alternative web-design |
+| [read.cv](https://read.cv/) | Profiles of developers and their projects |
 | [alternative.me](https://alternative.me/) | Crowd-sourced software recommendations |
 
 ## Post an Article
@@ -57,11 +68,15 @@ Free web-resources you may want to use to promote your next startup.
 | [hackernoon.com](https://hackernoon.com/) | Hacker Noon |
 | [blogger.com](https://www.blogger.com/) | Blogging platform |
 | [hackr.io](https://hackr.io/) | The list of programming classes and tutorials |
+| [javascriptkicks.com](https://javascriptkicks.com/) | JavaScript Kicks |
+| [smashingmagazine.com](https://www.smashingmagazine.com/) | For web designers and developers |
+| [forum.freecodecamp.org](https://forum.freecodecamp.org/) | The Free Code Camp Forum |
+| [codeproject.com](https://www.codeproject.com/) | CodeProject - For those who code |
+| [devdojo.com](https://devdojo.com/) | Dev community |
 
 **Niche Platforms**
 
-These blogs depends are not that universal but more niche one
-where you may find your target audience.
+Here are some niche blogs which you may use to find your target audience.
 
 | Link | About |
 | ---- | ----- |
@@ -83,6 +98,7 @@ where you may find your target audience.
 | [datacamp.com](https://www.datacamp.com/community) | Data Science Online News |
 | [echojs.com](http://www.echojs.com) | JavaScript News |
 | [css-tricks.com](https://css-tricks.com/) | CSS Tricks |
+| [daily.dev/blog](https://daily.dev/blog) | Daily Dev Blog |
 
 ## Answer Questions
 
@@ -98,6 +114,12 @@ where you may find your target audience.
 | [techrepublic.com](https://www.techrepublic.com/forums/) | Community of IT experts |
 | [sitepoint.com](https://www.sitepoint.com/community/) | Sitepoint forums |
 
+## Publish your RSS
+
+| Link | About |
+| ---- | ----- |
+| [feedly.com](https://feedly.com/) | News aggregator |
+
 ## Write to Dev-Chats
 
 Don't spam!
@@ -109,6 +131,14 @@ to channel.
 | Link | About |
 | ---- | ----- |
 | [gitter.im](https://gitter.im) | Where developers come to talk |
+
+## Record a video
+
+Record a demo video of your product, or some learning content and upload it to your YouTube channel. Put the link to the product or to the content to the video description.  
+
+| Link | About |
+| ---- | ----- |
+| [youtube.com](https://www.youtube.com/) | Video platform |
 
 ## Become Awesome
 
@@ -134,6 +164,8 @@ _It might be a good idea to exclude competitor web-site itself from the search r
 Do the following Google search but with you competitor's URL:
 
 `link:https://competitor-domain.com/blog -site:competitor-domain.com`
+
+You might also want to analyze **the backlinks to your competitors** using services like [ahrefs.com](https://ahrefs.com/backlink-checker).
 
 ### Find guest post opportunities
 
@@ -203,6 +235,7 @@ To do so just do the following Google search but with the resource you're intere
 | [nextbigwhat.com](https://www.nextbigwhat.com) | Discover great products |
 | [iamwire.com](http://www.iamwire.com/startups/user/register) | A digital incubator & network for technology ecosystem |
 | [snapmunk.com](https://www.snapmunk.com/submit-your-startup) | Technology trends and startup culture |
+| [microstartups.co](https://www.microstartups.co/) | Discover trending micro-startups today |
 | [nibletz.com](http://www.nibletz.com/submit-startup) | The voice of the startups |
 | [startupstash.com](http://startupstash.com) | Curated resources and tools for startups |
 | [alltopstartups.com](https://alltopstartups.com) | All top startups |
@@ -212,3 +245,42 @@ To do so just do the following Google search but with the resource you're intere
 | [sideprojectors.com](https://www.sideprojectors.com) | Marketplace to buy and sell side projects |
 | [launchingnext.com](https://www.launchingnext.com) | New startups and ideas |
 | [startupranking.com](https://www.startupranking.com) | New startups and ideas |
+| [awesomeindie.com](https://awesomeindie.com) | Products made by independent makers and creators |
+
+## Other suggestions
+
+### Other collections
+
+- [submit.co](https://submit.co/) - where to get press coverage for your startup
+
+### SubReddits
+
+Use [findareddit.com](https://www.findareddit.com/) to find relevant subreddits for your niche
+
+Depending on the subject of your post you may use the targeted subreddits:
+
+- [r/coding](https://www.reddit.com/r/coding/)
+- [r/computerscience](https://www.reddit.com/r/computerscience/)
+- [r/compsci](https://www.reddit.com/r/compsci/)
+- [r/SideProject](https://www.reddit.com/r/SideProject/)
+- [r/algorithms](https://www.reddit.com/r/algorithms/)
+- [r/javascript](https://www.reddit.com/r/javascript/)
+- [r/learnjavascript](https://www.reddit.com/r/learnjavascript/)
+- [r/reactjs](https://www.reddit.com/r/reactjs/)
+- [r/programming](https://www.reddit.com/r/programming/)
+- [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
+- [r/webdev](https://www.reddit.com/r/webdev/)
+- [r/datascience](https://www.reddit.com/r/datascience/)
+- [r/Python](https://www.reddit.com/r/Python/)
+- [r/pythontips](https://www.reddit.com/r/pythontips/)
+- [r/ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/)
+- [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
+- [r/MachinesLearn](https://www.reddit.com/r/MachinesLearn/)
+- [r/MLQuestions](https://www.reddit.com/r/MLQuestions/)
+- [r/tensorflow](https://www.reddit.com/r/tensorflow/)
+- [r/pythoncoding](https://www.reddit.com/r/pythoncoding/)
+- [r/alphaandbetausers](https://www.reddit.com/r/alphaandbetausers/)
+- [r/IMadeThis](https://www.reddit.com/r/IMadeThis/)
+- [r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
+- [r/SideProject](https://www.reddit.com/r/SideProject/)
+- [r/indiehackers](https://www.reddit.com/r/indiehackers/)
