@@ -105,7 +105,7 @@ Here are some niche blogs which you may use to find your target audience.
 | Link | About |
 | ---- | ----- |
 | [stackoverflow.com](https://stackoverflow.com) | Where developers learn, share and build careers |
-| [quora.com](https://www.quora.com) | A place to share knowledge and better understand the world. Look for question using [QApop](https://www.qapop.com/). |
+| [quora.com](https://www.quora.com) | A place to share knowledge and better understand the world |
 
 ## Write on Forums
 
