@@ -54,7 +54,6 @@ Free web-resources you may want to use to promote your next startup.
 | [dev.to](https://dev.to) | The DEV community |
 | [dzone.com](https://dzone.com) | Programming news, tutorials and tools |
 | [scotch.io](https://scotch.io/) | Top shelf web-development training |
-| [habr.com](https://habr.com) | Russian tech-blog |
 | [hashnode.com](http://hashnode.com) | The Dev community |
 | [dou.ua](https://dou.ua/) | Ukrainian developers community |
 | [muckrack.com](https://muckrack.com) | MuckRack for journalist and public relations |
