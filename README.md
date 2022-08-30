@@ -261,7 +261,6 @@ Depending on the subject of your post you may use the targeted subreddits:
 - [r/coding](https://www.reddit.com/r/coding/)
 - [r/computerscience](https://www.reddit.com/r/computerscience/)
 - [r/compsci](https://www.reddit.com/r/compsci/)
-- [r/SideProject](https://www.reddit.com/r/SideProject/)
 - [r/technology](https://www.reddit.com/r/technology/)
 - [r/algorithms](https://www.reddit.com/r/algorithms/)
 - [r/javascript](https://www.reddit.com/r/javascript/)
