@@ -61,7 +61,6 @@ Free web-resources you may want to use to promote your next startup.
 | [techhype.io](https://techhype.io) | News, articles and tools for developers |
 | [towardsdatascience.com](https://towardsdatascience.com/) | Towards Data Science |
 | [python.libhunt.com](https://python.libhunt.com/) | Awesome Python LibHunt |
-| [vas3k.club](https://vas3k.club/) | Вастрик.Клуб |
 | [codementor.io](https://www.codementor.io/community/) | CodeMentor Community |
 | [kdnuggets.com](https://www.kdnuggets.com/) | KDNuggets |
 | [morioh.com](https://morioh.com/) | Social network for programmers and developers |
