@@ -59,6 +59,12 @@ Free web-resources you may want to use to promote your next startup.
 | [dou.ua](https://dou.ua/) | Ukrainian developers community |
 | [muckrack.com](https://muckrack.com) | MuckRack for journalist and public relations |
 | [techhype.io](https://techhype.io) | News, articles and tools for developers |
+| [starterstory.com](https://starterstory.com) | Get interviewed about your business (submit [here](https://starterstory.com/share)) |
+
+**Niche Blogs**
+
+These blogs depends are not that universal but more niche one
+where you may find your target audience.
 | [towardsdatascience.com](https://towardsdatascience.com/) | Towards Data Science |
 | [python.libhunt.com](https://python.libhunt.com/) | Awesome Python LibHunt |
 | [codementor.io](https://www.codementor.io/community/) | CodeMentor Community |
