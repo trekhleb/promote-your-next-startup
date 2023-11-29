@@ -25,6 +25,7 @@ Free web-resources you may want to use to promote your next startup.
 | [devrant.com](https://devrant.com/) | A fun community of developers |
 | [sidebar.io](https://sidebar.io/) | The five best design links, every weekday |
 | [changelog.com](https://changelog.com/) | News and podcasts for developers |
+| [folotop.com](https://folotop.com/) | Top 10 |
 | [uxdesignweekly.com](https://uxdesignweekly.com/) | The best UX design links each week |
 | [css-weekly.com](https://css-weekly.com/) | Weekly e-mail roundup of latest CSS articles, tutorials, and experiments |
 
