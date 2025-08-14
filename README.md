@@ -217,6 +217,7 @@ To do so just do the following Google search but with the resource you're intere
 | Link | About |
 | ---- | ----- |
 | [betalist.com](https://betalist.com) | Discover and get early access to tomorrow's startup |
+| [Best of Web](https://www.bestofweb.site/) | Startup directory with free listings, founder profiles, and do-follow backlinks. |
 | [startuptabs.com](http://www.startuptabs.com) | Startup discovery engine |
 | [crunchbase.com](https://www.crunchbase.com) | Discover innovative companies and the people behind them |
 | [geekwire.com](https://www.geekwire.com/submit-startup) | Breaking news in technology in business |
