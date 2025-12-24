@@ -45,6 +45,7 @@ Free web-resources you may want to use to promote your next startup.
 | [hoverstat.es](https://www.hoverstat.es/) | The home of alternative web-design |
 | [read.cv](https://read.cv/) | Profiles of developers and their projects |
 | [alternative.me](https://alternative.me/) | Crowd-sourced software recommendations |
+| [vedika.io](https://vedika.io) | AI-powered Vedic astrology API for developers |
 
 ## Post an Article
 
