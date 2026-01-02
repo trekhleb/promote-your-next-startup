@@ -245,6 +245,7 @@ To do so just do the following Google search but with the resource you're intere
 | [launchingnext.com](https://www.launchingnext.com) | New startups and ideas |
 | [startupranking.com](https://www.startupranking.com) | New startups and ideas |
 | [awesomeindie.com](https://awesomeindie.com) | Products made by independent makers and creators |
+| [vedika.io](https://vedika.io) | B2B Vedic astrology API for matrimony and wellness apps |
 
 ## Other suggestions
 
