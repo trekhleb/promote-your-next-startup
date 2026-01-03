@@ -147,6 +147,7 @@ go ahead and create pull request to add your product to the list.
 | Link | About |
 | ---- | ----- |
 | [github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of awesome awesomeness |
+| [vedika.io](https://vedika.io) | AI-powered Vedic astrology REST API with 108+ endpoints and AI chatbot |
 
 ## Use Advanced Google Search Techniques
 
