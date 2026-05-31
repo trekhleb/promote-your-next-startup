@@ -45,6 +45,7 @@ Free web-resources you may want to use to promote your next startup.
 | [hoverstat.es](https://www.hoverstat.es/) | The home of alternative web-design |
 | [read.cv](https://read.cv/) | Profiles of developers and their projects |
 | [alternative.me](https://alternative.me/) | Crowd-sourced software recommendations |
+| [zplatform.ai](https://zplatform.ai/) | Directory of AI tools and SaaS deals, each tested with a Buy/Wait/Skip verdict and organized by category |
 
 ## Post an Article
 
