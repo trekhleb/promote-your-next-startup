@@ -265,6 +265,7 @@ To do so just do the following Google search but with the resource you're intere
 | [toolify.ai](https://toolify.ai) | AI tools directory with strong programmatic-SEO surface area |
 | [insidr.ai](https://insidr.ai) | AI tools directory and newsletter |
 | [saasaitools.com](https://saasaitools.com) | Directory of AI-powered SaaS |
+| [siteefy.com](https://siteefy.com/submit-tool) | Free editorial review for AI tools, SaaS products, software, and online services |
 | [foundersdatabase.com](https://foundersdatabase.com) | An AI tools directory where founders list their products and AI workflows |
 | [devhunt.org](https://devhunt.org) | Launch platform for developer tools, run by the Hacker News-adjacent dev community |
 | [startupfa.me](https://startupfa.me) | Launch directory with a dofollow link |
