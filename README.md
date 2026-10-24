@@ -234,6 +234,7 @@ To do so just do the following Google search but with the resource you're intere
 | [startuptabs.com](http://www.startuptabs.com) | Startup discovery engine |
 | [crunchbase.com](https://www.crunchbase.com) | Discover innovative companies and the people behind them |
 | [geekwire.com](https://www.geekwire.com/submit-startup) | Breaking news in technology in business |
+| [saascity.io](https://saascity.io/submit) | SaaS and startup directory shown as an isometric city map; free listing |
 | [f6s.com](https://www.f6s.com) | Startup founder deals and accelerators |
 | [killerstartups.com](http://www.killerstartups.com) | Where internet entrepreneurs are the stars |
 | [startupbuffer.com](https://startupbuffer.com) | Promote your startup and discover new startups |
