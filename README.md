@@ -266,6 +266,7 @@ To do so just do the following Google search but with the resource you're intere
 | [insidr.ai](https://insidr.ai) | AI tools directory and newsletter |
 | [saasaitools.com](https://saasaitools.com) | Directory of AI-powered SaaS |
 | [foundersdatabase.com](https://foundersdatabase.com) | An AI tools directory where founders list their products and AI workflows |
+| [respawnstack.com](https://respawnstack.com) | Curated directory of AI tools for game developers |
 | [devhunt.org](https://devhunt.org) | Launch platform for developer tools, run by the Hacker News-adjacent dev community |
 | [startupfa.me](https://startupfa.me) | Launch directory with a dofollow link |
 | [startupbase.io](https://startupbase.io) | Community-driven startup directory |
