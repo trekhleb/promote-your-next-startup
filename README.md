@@ -272,6 +272,7 @@ To do so just do the following Google search but with the resource you're intere
 | [uneed.best](https://uneed.best) | Daily product launch platform for tools and resources |
 | [10words.io](https://10words.io) | Describe your product in ten words |
 | [fazier.com](https://fazier.com) | Product Hunt-style launch board |
+| [codetrendy.com](https://codetrendy.com/) | Directory to list and discover new startups, dev tools and online products |
 | [microlaunch.net](https://microlaunch.net) | Launch platform for indie and micro-SaaS products |
 | [pitchwall.co](https://pitchwall.co) | Launch and upvote platform for startups |
 | [tinylaun.ch](https://tinylaun.ch) | Fast, no-frills launch board popular with indie hackers |
