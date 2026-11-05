@@ -273,6 +273,9 @@ To do so just do the following Google search but with the resource you're intere
 | [10words.io](https://10words.io) | Describe your product in ten words |
 | [fazier.com](https://fazier.com) | Product Hunt-style launch board |
 | [microlaunch.net](https://microlaunch.net) | Launch platform for indie and micro-SaaS products |
+| [pwa.directory](https://pwa.directory) | Curated directory of installable progressive web apps |
+| [webapps.directory](https://webapps.directory) | Curated directory of web apps that run in the browser |
+| [boilerplates.directory](https://boilerplates.directory) | Compare SaaS starter kits and boilerplates by stack, pricing model and features |
 | [pitchwall.co](https://pitchwall.co) | Launch and upvote platform for startups |
 | [tinylaun.ch](https://tinylaun.ch) | Fast, no-frills launch board popular with indie hackers |
 | [kagi.com](https://kagi.com) | Kagi's Small Web surfaces fresh posts from personal blogs and independent sites |
