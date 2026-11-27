@@ -287,6 +287,7 @@ To do so just do the following Google search but with the resource you're intere
 | [text.blogosphere.app](https://text.blogosphere.app) | A live feed of fresh posts from independent blogs across the web |
 | [indieblog.page](https://indieblog.page) | Discover the indie web one blog post at a time with a random-blog button |
 | [hnpwd.github.io](https://hnpwd.github.io) | A community-maintained directory of personal websites belonging to Hacker News users |
+| [radarmakers.com](https://radarmakers.com) | Free launch directory where makers list products and the community ranks them |
 
 ## Other suggestions
 
